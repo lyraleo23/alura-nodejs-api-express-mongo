@@ -1,0 +1,24 @@
+{
+  "name": "alura-nodejs-api-express-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyraleo23/alura-nodejs-api-express-mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyraleo23/alura-nodejs-api-express-mongo/issues"
+  },
+  "homepage": "https://github.com/lyraleo23/alura-nodejs-api-express-mongo#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
